@@ -1,0 +1,20 @@
+###############
+*.csv
+*.xls
+*.xlsx
+*.pdf
+*.DS_Store
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ethums.db
+Thumbs.db
